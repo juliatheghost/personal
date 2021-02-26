@@ -1,2 +1,2 @@
 # personal
-Quick projects just for fun :)
+quick projects just for fun :)

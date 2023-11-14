@@ -1,2 +1,2 @@
 # personal
-quick projects just for fun :)
+Random code I want to keep
